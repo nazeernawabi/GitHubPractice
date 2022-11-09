@@ -11,9 +11,10 @@ public class GitHubPractice {
 		System.out.println("GitHub practice is fun");
 		System.out.println("GitHub practice is fun");
 		System.out.println("GitHub practice is fun");
-		System.out.println("GitHub practice is fun");
-		
-		
+		System.out.println("Remote repo");
+		System.out.println("Remote repo");
+		System.out.println("Remote repo");
+		System.out.println("Remote repo");
 
 	}
 
