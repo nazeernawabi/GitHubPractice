@@ -14,6 +14,7 @@ public class GitHubPractice {
 			
 			
 			System.out.println("class test of git commmands");
+			System.out.println("class test of git commmands");
 			
 		}
 
